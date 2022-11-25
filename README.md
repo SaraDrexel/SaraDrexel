@@ -8,9 +8,15 @@
 
 ## About me
 <p>👀 <b>I’m interested in:</b> Libraries, games, music, true crime, cooking, politics </p>
-<p>🌱 <b>’m currently learning:</b>  Data and Digital Stewardship, Design Thinking</p>
+<p>🌱 <b>I’m currently learning:</b>  Data and Digital Stewardship, Design Thinking</p>
 <p>💞️ <b>I’m looking to collaborate on:</b> Drexel online projects</p>
 
+## Following on GitHub
+
+<ul>
+ <li><a href="https://github.com/topics/dungeons-and-dragons">Dungeons and Dragons</a></li>
+ <li><a href="https://github.com/topics/james-webb">James Webb Space Telescope</a></li>
+</ul>
 
 
 
